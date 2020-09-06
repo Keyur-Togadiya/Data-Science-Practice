@@ -1,1 +1,1 @@
-# Data-Science-Practice (Upgrad)
+# Data-Science-Practice
